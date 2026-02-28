@@ -1,0 +1,12 @@
+{
+  "name": "liquid-staking-derivative-protocol",
+  "version": "1.0.0",
+  "description": "LSD implementation with Yield-Bearing Tokens",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "scripts": {
+    "compile": "hardhat compile"
+  }
+}
